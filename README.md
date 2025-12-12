@@ -89,28 +89,11 @@ This is a **research project repository**, not a packaged library. To use:
 
 7. Run the notebook cells sequentially to execute the evaluation pipeline
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Your citation format here - update with your publication details]
-```
-
 ## References
 
-List the papers and resources that informed this work:
+- Jin, Z., et al. (2024). "FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research." arXiv preprint arXiv:2405.13576.
+- Dubey, A., et al. (2024). "The Llama 3 Herd of Models." arXiv preprint arXiv:2407.21783.
+- Qwen Team (2024). "Qwen2.5: A Party of Foundation Models." Alibaba Cloud.
+- Johnson, J., Douze, M., & Jégou, H. (2019). "Billion-scale similarity search with GPUs." IEEE Transactions on Big Data.
+- Petroni, F., et al. (2020). "KILT: a Benchmark for Knowledge Intensive Language Tasks." arXiv preprint arXiv:2009.02252.
 
-- [Add your reference papers here]
-- [FlashRAG framework citation]
-- [Model papers - Llama, Qwen, etc.]
-- [Dataset citations]
-- [Evaluation methodology references]
-
-## License
-
-[Add your license information here]
-
-## Contact
-
-For questions or issues, please open an issue on this repository or contact [your contact information].
